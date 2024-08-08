@@ -1,0 +1,16 @@
+/* src/App.css */
+.loading-screen {
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fknowledge&psig=AOvVaw1CUf99KI5PJ_Z5I-598z4F&ust=1723210177684000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC426bA5YcDFQAAAAAdAAAAABAE.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+.loading-screen h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
